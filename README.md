@@ -5,7 +5,7 @@
 
 ---
 
-## 👤 Profile  
+## Profile  
 
 I am a **third-year Computer Science student** at the University of Padua.  
 My academic journey is allowing me to build a strong foundation in computer science, with particular attention to software development and systems architecture.  
