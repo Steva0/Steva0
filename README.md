@@ -65,3 +65,4 @@ My primary interest and professional goal lie in **Cybersecurity**. My short- an
 For collaborations, idea exchanges, or professional opportunities, feel free to reach out at:  
 
 📧 **michele.stevanin.work@gmail.com**
+Currivulum: https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michele-stevanin/5f317bb5-67f7-40f7-9dd7-1027464d0870?view=html
