@@ -66,4 +66,4 @@ For collaborations, idea exchanges, or professional opportunities, feel free to 
 
 📧 **michele.stevanin.work@gmail.com**
 
-Currivulum: https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/michele-stevanin/c9475a02-f52e-4cd3-9648-f96480479398?view=html
+Curriculum: <!-- CV_LINK_START -->[Visualizza il mio CV](https://link-vecchio-o-segnaposto)<!-- CV_LINK_END -->
